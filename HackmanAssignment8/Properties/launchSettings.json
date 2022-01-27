@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HackmanAssignment8": {
+      "commandName": "Project",
+      "commandLineArgs": "one.ada"
+    }
+  }
+}
